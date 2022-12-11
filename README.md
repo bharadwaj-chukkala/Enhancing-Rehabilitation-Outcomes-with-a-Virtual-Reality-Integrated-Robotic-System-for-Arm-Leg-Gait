@@ -16,14 +16,14 @@ Bharadwaj Chukkala is currently a Master's student in Robotics at the University
 * **Atharva Chandrasekhar Paralikar**<br>
 UID: 117396560
 Atharva Chandrasekhar Paralikar is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Human Robot Interaction, Medical Robotics, Tiny Machine Learning.<br>
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@umd.edu) 
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](atharvap@umd.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athp/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atharva-Paralikar) 
 
-* **Hemanth Joseph Raj**
+* **Hemanth Joseph Raj**<br>
 UID: 117518955 
-Hemanth Joseph Raj is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Deep Learning applications,Rehabilitation robotics and Path Planning for autonomous systems
-[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](@umd.edu) 
+Hemanth Joseph Raj is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Deep Learning applications,Rehabilitation robotics and Path Planning for autonomous systems.<br>
+[![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hemanth1@umd.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthjosephraj) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemanthJoseph)
 
