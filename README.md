@@ -7,28 +7,28 @@
 ## Personnel
 
 * **Bharadwaj Chukkala**<br>
-UID: 118341705<br>
+UID: 118341705 <br>
 Bharadwaj Chukkala is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Machine Learning, Perception and Path Planning.<br>
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bchukkal@umd.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharadwaj-chukkala/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bharadwaj-chukkala)            
 
 * **Atharva Chandrasekhar Paralikar**<br>
-UID: 117396560
+UID: 117396560 <br>
 Atharva Chandrasekhar Paralikar is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Human Robot Interaction, Medical Robotics, Tiny Machine Learning.<br>
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](atharvap@umd.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athp/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atharva-Paralikar) 
 
 * **Hemanth Joseph Raj**<br>
-UID: 117518955 
+UID: 117518955 <br>
 Hemanth Joseph Raj is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include Deep Learning applications,Rehabilitation robotics and Path Planning for autonomous systems.<br>
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hemanth1@umd.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanthjosephraj) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HemanthJoseph)
 
 * **Joseph Pranadeer Reddy Katakam**<br>
-UID: 117517958<br>
+UID: 117517958 <br>
 Joseph Katakam is currently a Master's student in Robotics at the University of Maryland, College Park, MD (Batch of 2023). His interests include medical robotics related software development. He has prior industry experence in the field from his work at Stryker Robotics.<br>
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jkatak73@umd.edu) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josephkatakam/) 
